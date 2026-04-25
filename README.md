@@ -17,9 +17,9 @@
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=`+Like+the+clouds+`;`+Never+stay+`;`+Moving+away+`;`+The+sunlight+coming+into+`;`+That's+the+way+it+goes+`;`+No+one+else+`;`+Could+be+you+`;`+We're+diffrent+`;`+That+is+why,+`;`+We're+beautiful+`;`+One+world,+many+stories+`&font=Libertinus+Math&center=true&width=1100&height=60&color=F8C8DC&duration=3500&pause=1500">
+<img src="https://readme-typing-svg.demolab.com/?lines=`+Like+the+clouds,+never+stay+`;`+Moving+away+`;`+The+sunlight+coming+into+`;`+That's+the+way+it+goes+`;`+No+one+else+`;`+Could+be+you+`;`+We're+diffrent+`;`+That+is+why,+`;`+We're+beautiful+`;`+One+world,+many+stories+`&font=Indie+Flower&center=true&width=1100&height=60&color=F8C8DC&duration=3000&pause=1200">
 
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Many+stories+-+Beastars&font=Libertinus+Math&center=true&width=1800&height=100&color=FBAED2&duration=5000&pause=2500">
+<img src="https://readme-typing-svg.demolab.com/?lines=Many+stories+-+Beastars&font=Fira+Code&center=true&width=1800&height=100&color=FBAED2&duration=5000&pause=2500">
