@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/love-humanity-FFB6C1?style=for-the-badge" alt="custom badge"/> 
+  <img src="https://img.shields.io/badge/ego-humanity-FFB6C1?style=for-the-badge" alt="custom badge"/> 
 </div>
 
 <br>
