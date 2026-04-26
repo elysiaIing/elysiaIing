@@ -5,13 +5,18 @@
 <br>
 
 <div align="center">
+<img src="https://github.com/user-attachments/assets/9d5c4747-df6a-4ab8-9830-ed16991ce7ba" alt="Elysia" width="200"/>
+</div>
+
+
+<div align="center">
   <img src="https://img.shields.io/badge/human-ego-FFB6C1?style=for-the-badge" alt="custom badge"/> 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/1fcf725a-a84c-4e1f-a368-0c20121c543b" alt="Elysia" width="500"/>
+<img src="https://github.com/user-attachments/assets/1fcf725a-a84c-4e1f-a368-0c20121c543b" alt="Elysia1" width="500"/>
 </div>
 
 <br>
