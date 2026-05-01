@@ -27,10 +27,8 @@
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=AUDIT+-+WeevilDoing&font=Fira+Code&center=true&width=1800&height=100&color=FBAED2&duration=5000&pause=2500">
+<img src="https://readme-typing-svg.demolab.com/?lines=AUDIT+-+WeevilDoing;(i+cut+off+some+parts+of+the+best+part+but+the+song+in+general+is+peak)&font=Fira+Code&center=true&width=1800&height=100&color=FBAED2&duration=5000&pause=2500">
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=(some+parts+of+the+best+part+are+cut+off+but+the+song+in+general+is+peak)&font=Fira+Code&center=true&width=1900&height=100&color=FBAED2&duration=5000&pause=2000">
 
 <br><br>
 
