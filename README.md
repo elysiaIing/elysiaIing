@@ -22,12 +22,15 @@
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=`+Exorcists+can't+Save+me+now.+`;`+I+swear+to+you+That+I'm+fine.+`;`+Please+let+me+die+To+be+found.+`;`+Nerves+that+I+grind+`;`+Speaking+louder+in+my+own+voice,+`;`+Blocked+by+the+voice+of+a+demon+inside.+`;`+I+act+coy+and+I+play+nice,+`;`+Only+to+DIE+on+the+inside!+`;`+I+need+an+exorcism.+`;`+I+Need+An+Exorcism.+`;`+I+NEED+AN+EXORCISM.+`;`+I.+NEED.+AN.+EXORCISM!+`&font=Indie+Flower&center=true&width=1100&height=60&color=F8C8DC&duration=2850&pause=1100">
+<img src="https://readme-typing-svg.demolab.com/?lines=`+I+know+I+fucked+it+all+up,+I'm+not+a+perfect+woman+`;`+But+I+swear+I'll+get+better,+this+isn't+who+I+am+`;`+It's+really+not+your+problem,+you+shouldn't+give+a+damn.+`;`+You+don't+know+how+I'm+feeling,+so+don't+try+to+understand.+`;`+the+crashing+sound+of+metal,+the+bleeding+from+my+nose.+`;`+I'm+so+stupid,+I+know.+`;`+FUCKING+AWFUL,+I+KNOW!+`;`+The+iron+taste+in+my+mouth+mixes+with+the+merlot.+`;`+they+won't+breathe+anymore.+`;`+THEY+WON'T+BREATHE+ANYMORE.+`;`+I'VE+REALLY+DONE+IT+THIS+TIME,+WHERE'S+THERE+FOR+ME+TO+GO?+`;`+Goddamnit,+I+DON'T+KNOW.+`;`+HOW+COULD+I+EVER+KNOW?+`;`+A+SHALLOW+GRAVE+FROM+MY+HANDS,+FLESH+AND+BLOOD+DOWN+BELOW.+`;`+Pick+up,+pick+up+the+phone+`;`+PICK+UP,+PICK+UP+THE+PHONE.+`&font=Indie+Flower&center=true&width=1100&height=60&color=F8C8DC&duration=3000&pause=1300">
 
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Exorcism+-+Creep-P&font=Fira+Code&center=true&width=1800&height=100&color=FBAED2&duration=5000&pause=2500">
+<img src="https://readme-typing-svg.demolab.com/?lines=AUDIT+-+WeevilDoing&font=Fira+Code&center=true&width=1800&height=100&color=FBAED2&duration=5000&pause=2500">
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=(some+parts+of+the+best+part+are+cut+off+but+the+song+in+general+is+peak)&font=Fira+Code&center=true&width=1900&height=100&color=FBAED2&duration=5000&pause=2000">
 
 <br><br>
 
