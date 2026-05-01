@@ -10,6 +10,12 @@
 
 
 <div align="center">
+<img src="https://komarev.com/ghpvc/?username=elysiaIing&color=fcd0da" alt="custom badge2"
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://img.shields.io/badge/human-ego-FFB6C1?style=for-the-badge" alt="custom badge"/> 
 </div>
 
