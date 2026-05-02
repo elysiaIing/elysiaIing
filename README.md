@@ -23,12 +23,12 @@
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=`+I+know+I+fucked+it+all+up,+I'm+not+a+perfect+woman+`;`+But+I+swear+I'll+get+better,+this+isn't+who+I+am+`;`+It's+really+not+your+problem,+you+shouldn't+give+a+damn.+`;`+You+don't+know+how+I'm+feeling,+so+don't+try+to+understand.+`;`+the+crashing+sound+of+metal,+the+bleeding+from+my+nose.+`;`+I'm+so+stupid,+I+know.+`;`+FUCKING+AWFUL,+I+KNOW!+`;`+The+iron+taste+in+my+mouth+mixes+with+the+merlot.+`;`+they+won't+breathe+anymore.+`;`+THEY+WON'T+BREATHE+ANYMORE.+`;`+I'VE+REALLY+DONE+IT+THIS+TIME,+WHERE'S+THERE+FOR+ME+TO+GO?+`;`+Goddamnit,+I+DON'T+KNOW.+`;`+HOW+COULD+I+EVER+KNOW?+`;`+A+SHALLOW+GRAVE+FROM+MY+HANDS,+FLESH+AND+BLOOD+DOWN+BELOW.+`;`+Pick+up,+pick+up+the+phone+`;`+PICK+UP,+PICK+UP+THE+PHONE.+`&font=Indie+Flower&center=true&width=1100&height=60&color=F8C8DC&duration=3000&pause=1300">
+<img src="https://readme-typing-svg.demolab.com/?lines=`+When+you+go,+just+don't+change+the+channel.+`;`+I+hope+you+won't+be+long.+`;`+After+all,+I+wan't+to+be+wanted.+`;`+Is+that+so+wrong?+`;`+PANIC!+In+static!+Out-manic!+`;`+Don't+you+find+it+all+romantic,+the+way+things+used+to+be?+`;`+Classic,+ecstatic,+it's+magic+`;`+To+trip+the+light+fantastic,+REPEAT+IT+AFTER+ME!+`;`+This+is+how+it+should+be,+in+studio+seats+`;`+My+ego+wired+in+the+CRT+`;`+We+can+skip+the+sign-off+`;`+Ol'+familliar+scene,+repeating+`;`+This+is+how+it+should+be!+`&font=Indie+Flower&center=true&width=1100&height=60&color=F8C8DC&duration=3000&pause=1300">
 
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=AUDIT+-+WeevilDoing;(i+cut+off+some+parts+of+the+best+part+but+the+song+in+general+is+peak)&font=Fira+Code&center=true&width=1800&height=100&color=FBAED2&duration=5000&pause=2500">
+<img src="https://readme-typing-svg.demolab.com/?lines=Static+-+FLAVOR+FOLEY;^_^&font=Fira+Code&center=true&width=1800&height=100&color=FBAED2&duration=5000&pause=2500">
 
 
 <br><br>
