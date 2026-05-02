@@ -8,13 +8,6 @@
 <img src="https://github.com/user-attachments/assets/9d5c4747-df6a-4ab8-9830-ed16991ce7ba" alt="Elysia" width="200"/>
 </div>
 
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=elysiaIing&color=fcd0da" alt="custom badge2"
-</div>
-
-
-<br>
 <br>
 
 <div align="center">
